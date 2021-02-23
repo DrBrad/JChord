@@ -1,4 +1,4 @@
-JTun2Socks
+JChord
 ===========
 A Java implementation of the Chord protocol, using TCP sockets with no UDP or RMI.
 
